@@ -32,7 +32,7 @@ tools/31*
 *.sln
 
 # Visual Studio Code
-.vscode
+temp_auto_push.bat
 
 *.key
 
@@ -67,3 +67,5 @@ examples/ecommerce-netlify-functions/.netlify/state.json
 
 notes.md
 list.out
+.gitignore
+branch_structure.json
