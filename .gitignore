@@ -32,12 +32,12 @@ tools/31*
 *.sln
 
 # Visual Studio Code
-.vscode
 
 *.key
 
 # Webpack output
 dist
+temp_auto_push.bat
 test/files/main.js
 
 package-lock.json
@@ -77,3 +77,5 @@ fle-cluster-config.json
 # @ark/attest (type testing)
 .attest
 .worktrees/
+.gitignore
+branch_structure.json
